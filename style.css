@@ -12,7 +12,9 @@ header {
     align-items: center;
     justify-content: space-between;
     flex-grow: 1;
-    padding: 8px;
+    padding-top: 16px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .header-links {
@@ -28,7 +30,49 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
 h2 {
     font-size: 24px;
     color: #F9FAF8;
+}
+
+.hero {
+    display:flex;
+    background-color: #1f2937;
+    padding: 8px;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 50px;
+
+}
+
+.main-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    display:flex;
+    flex-direction: column;
+}
+
+.heroleft {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    max-width: 600px;
+}
+
+.aircraftimg {
+    display: flex;
+    height: 300px;
+    border-radius: 50px;
 }
