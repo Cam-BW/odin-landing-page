@@ -4,6 +4,9 @@ Creation of a landing page as part of the odin project to consolidate skills on 
 
 
 # photo credits #
+Aircraft Photo by John McArthur
+https://unsplash.com/@snowjam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+
 Edinburgh Photo by Adam Wilson
 https://unsplash.com/@fourcolourblack?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
 
