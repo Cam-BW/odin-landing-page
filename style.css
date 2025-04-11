@@ -90,11 +90,16 @@ h2 {
 }
 
 .destination-image {
-    border: solid lightskyblue;
     width: 400px;
     height: auto;
     border-radius: 20px;
 }
+
+.destination-image:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
 
 .destinations-title {
     display: flex;
@@ -119,6 +124,6 @@ h2 {
     width: 400px;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align:justify;
     gap: 10px;
 }
