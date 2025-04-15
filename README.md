@@ -1,5 +1,5 @@
 # odin-landing-page
-Creation of a landing page as part of the odin project to consolidate skills on html, CSS and flexbox.
+Creation of a landing page as part of the odin project to consolidate skills on html, CSS and flexbox. I've expanded on this a bit and included some hover effects on some images and buttons but have overall followed the style set by the odin project lesson.
 
 
 
