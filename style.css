@@ -176,7 +176,7 @@ h2 {
 }
 
 .sign-up:hover {
-    background-color: #2563eb; /* a slightly darker blue */
+    background-color: #2563eb;
     color: #f9faf8;
     transform: translateY(-3px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
@@ -185,4 +185,13 @@ h2 {
 .ff-left {
     color: #f9faf8;
     font-size: 16px;
+}
+
+.copyright {
+    display:flex;
+    background-color: #1f2937;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
+    padding: 25px;
 }
